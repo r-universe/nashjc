@@ -1,45 +1,28 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "nlmrt"]
 	path = nlmrt
 	url = https://github.com/cran/nlmrt
-	shallow = true
-	registered = true
 [submodule "nlsr"]
 	path = nlsr
 	url = https://github.com/cran/nlsr
-	shallow = true
-	registered = true
 [submodule "optextras"]
 	path = optextras
 	url = https://github.com/cran/optextras
-	shallow = true
-	registered = true
 [submodule "optimr"]
 	path = optimr
 	url = https://github.com/cran/optimr
-	shallow = true
-	registered = true
 [submodule "optimx"]
 	path = optimx
 	url = https://github.com/cran/optimx
-	shallow = true
-	registered = true
 [submodule "Rcgmin"]
 	path = Rcgmin
 	url = https://github.com/cran/Rcgmin
-	shallow = true
-	registered = true
 [submodule "Rtnmin"]
 	path = Rtnmin
 	url = https://github.com/cran/Rtnmin
-	shallow = true
-	registered = true
 [submodule "Rvmmin"]
 	path = Rvmmin
 	url = https://github.com/cran/Rvmmin
-	shallow = true
-	registered = true
