@@ -16,7 +16,7 @@
 	url = https://github.com/cran/optimr
 [submodule "optimx"]
 	path = optimx
-	url = https://github.com/cran/optimx
+	url = https://github.com/nashjc/optimx
 [submodule "Rcgmin"]
 	path = Rcgmin
 	url = https://github.com/cran/Rcgmin
