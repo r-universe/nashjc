@@ -2,6 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "Rcgmin"]
+	path = Rcgmin
+	url = https://github.com/cran/Rcgmin
+[submodule "Rtnmin"]
+	path = Rtnmin
+	url = https://github.com/cran/Rtnmin
+[submodule "Rvmmin"]
+	path = Rvmmin
+	url = https://github.com/cran/Rvmmin
 [submodule "nlmrt"]
 	path = nlmrt
 	url = https://github.com/cran/nlmrt
@@ -17,12 +26,3 @@
 [submodule "optimx"]
 	path = optimx
 	url = https://github.com/nashjc/optimx
-[submodule "Rcgmin"]
-	path = Rcgmin
-	url = https://github.com/cran/Rcgmin
-[submodule "Rtnmin"]
-	path = Rtnmin
-	url = https://github.com/cran/Rtnmin
-[submodule "Rvmmin"]
-	path = Rvmmin
-	url = https://github.com/cran/Rvmmin
