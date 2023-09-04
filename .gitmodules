@@ -16,7 +16,7 @@
 	url = https://github.com/cran/nlmrt
 [submodule "nlsr"]
 	path = nlsr
-	url = https://github.com/cran/nlsr
+	url = https://github.com/nashjc/nlsr
 [submodule "optextras"]
 	path = optextras
 	url = https://github.com/cran/optextras
